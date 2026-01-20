@@ -1,3 +1,5 @@
-Phương thức nộp bài 
-Học sinh cần tạo tài khoản github
-Sau đó chọn add file và upload bài tập 
+# Readme
+Cách thức nộp bài 
+Học sinh tạo tài khoản 
+Truy cập vào đường dẫn 
+Và  add file sau đó upload 
